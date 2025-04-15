@@ -1,4 +1,4 @@
-# 👋 Hi, my user is @finn1817, but you can call me dan! #
+# 👋 Hi, my user is @finn1817, but you can call me Dan! #
 
 <br>
 <br>

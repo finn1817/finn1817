@@ -4,27 +4,22 @@
 <br>
 
 ### 🚌 Interests 🎸 ###
-👀 - I’m good at coding in C++, C#, Python, HTML, Java, SQL and bash. I have done projects in (meaning i've worked with before, can do but do not prefer) R, Koltin, Perl, Assembly, and Unity. (All for class at some point)
+👀 - I’m good at coding (have lots of experience) in C++, C#, Python, HTML, SQL, Bash, Java, and Koltin. I have done projects in (meaning i've worked with before, can do but do not prefer) R, CSS, Perl, Assembly, and I have made a few Unity Game replicating projects. (All for classes at some point)
 
 <br>
   
 ### 🔧 Me 🕜 ### 
-💰 - I’m currently in school and working (learning more about programming everyday.
+💰 - I’m currently in school (Hopefully finishing up soon) and working, learning more about programming everyday.
 
 <br>
   
 ### ✈️ Looking 🚁 For 💵 Work ⌚ ### 
-💸 - I’m looking to work on any remote programming projects I may be able to assist with.
+💸 - I’m looking to work on any remote programming projects I may be able to help with, I know I can get most things done (properly) and if I can help, I always love to try!
 
 <br>
   
 ### 🏠 How to Contact Me 📞 ### 
 ⚠️ 📨 - How to reach me "https://dfinn.me/Resume-Website/" - There is a contact form at the bottom if you wanna reach out!
-
-<!---
-finn1817/finn1817 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <br>
 <br>

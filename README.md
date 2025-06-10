@@ -19,7 +19,7 @@
 <br>
   
 ### 🏠 How to Contact Me 📞 ### 
-⚠️ 📨 - How to reach me "https://dfinn.me/Main-Website/resume/" - There is a contact form at the last slide if you wanna reach out! (This will your message to my email!)
+⚠️ 📨 - How to reach me "https://dfinn.me/Main-Website/resume/" - There is a contact form at the last slide if you wanna reach out! (This will send your message to my email!)
 
 <br>
 <br>

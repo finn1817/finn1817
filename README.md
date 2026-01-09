@@ -1,10 +1,10 @@
-# 👋 Hi, call me Dan! #
+# 👋 Hi, my names Dan! #
 
 <br>
 <br>
 
 ### 🚌 Interests 🎸 ###
-👀 - I’m good at coding (I have lots of experience) in C++, C#, Python, HTML, SQL, Bash, Java, and Koltin. I have done projects in (meaning i've worked with before, can do but do not prefer) R, CSS, Perl, Assembly, and I have made a few Unity Game replicating projects. (All for classes at some point)
+👀 - I would say I am decent / good at coding (I have lots of experience) in C++, C#, Python, HTML, SQL, Bash, Java, and Koltin. I have done projects in (meaning i've worked with before, can do but do not prefer) R, CSS, Perl, Assembly, and I have made a few Unity Game replicating projects. (All for classes at some point)
 
 <br>
   
